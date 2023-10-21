@@ -1,7 +1,6 @@
 # Txt2Html
 Text to HTML Converter
-What's This?
-Hey there, back in November 2021, I created a cool C++ tool called the "Text to HTML Converter." This nifty application lets you turn regular text files (in UTF-8 format) into HTML files. It's perfect if you want to make your text content suitable for web pages, smartphones, or e-book readers.
+Back in November 2021, I created a cool C++ tool called the "Text to HTML Converter." This nifty application lets you turn regular text files (in UTF-8 format) into HTML files. It's perfect if you want to make your text content suitable for web pages, smartphones, or e-book readers.
 
 Cool Features:-
 
